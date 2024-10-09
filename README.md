@@ -1,3 +1,3 @@
 # lekcje2k
 
-All the lessons two: electric boogaloo
+Geografia tu być, historie życiowe też
