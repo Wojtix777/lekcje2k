@@ -1,0 +1,8 @@
+# Dwie proste przecięte trzecią prostą. Suma w trójkącie.
+## 1. Kąty odpowiadające.
+![obraz](https://github.com/user-attachments/assets/8a54caf2-7e40-429b-87a3-da163b1e18d8)
+## 2. Kąty naprzemianległe wewnętrzne
+![obraz](https://github.com/user-attachments/assets/797962e4-abbd-4135-a59d-d9360681eb3f)
+## 3. Kąty naprzemianległe zewnętrzne
+![obraz](https://github.com/user-attachments/assets/eebb6f5d-296d-4f04-ae7d-7389ddc4eddc)\
+zad 1/280 (plus z wczoraj 1+2/276)
